@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 Welcome to Allie's space
 
 <!--
 **wooyani77/wooyani77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
+
+## Skills💪🏻 
+### Platform & Languges
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
