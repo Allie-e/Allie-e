@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyani77&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooyani77&count_bg=%23D7D5D3&title_bg=%230F14EB&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
