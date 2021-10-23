@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 ## Skills💪🏻 
 ### Platform & Languges
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyani77&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
