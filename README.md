@@ -8,7 +8,7 @@
 I'm currently studying iOS development.
   </br>
 It's a space that makes me better than yesterday!!
-Sorry but I have a boyfriend :(
+
 </p>
 
 <!--
